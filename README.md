@@ -12,7 +12,7 @@
 
 **My notebook:** https://colab.research.google.com/drive/1a_FHvCIz3MBesGHAdvuYSGDXBfHUJDfb
 
-## Zion's Thesis
+## Machine Grader
 
 ### Learning with Fewer Labeled Examples
 
