@@ -10,6 +10,8 @@
 
 [TF playground](http://playground.tensorflow.org)
 
+**My notebook:** https://colab.research.google.com/drive/1a_FHvCIz3MBesGHAdvuYSGDXBfHUJDfb
+
 ## Zion's Thesis
 
 ### Learning with Fewer Labeled Examples
