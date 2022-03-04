@@ -10,3 +10,16 @@
 
 [TF playground](http://playground.tensorflow.org)
 
+## Zion's Thesis
+
+### Learning with Fewer Labeled Examples
+
+1) Data augmentation
+2) Transfer learning
+3) Semi-supervised learning
+4) Active learning
+5) Meta-learning
+6) Few-shot learning
+7) Weakly supervised learning
+
+
