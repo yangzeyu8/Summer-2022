@@ -1,15 +1,12 @@
-# Visualization2022
+# Visualization 2022
 
-# Summer Project Proposal
-
-# Visualization of DNNs
+## Visualization of DNNs
 
 > The term “DNN” actually encompasses a larger family of models, in which we compose differentiable functions into any kind of DAG (directed acyclic graph), mapping input to output.
 
-[Murphy book]: https://probml.github.io/pml-book/book1.html
+[Murphy book](https://probml.github.io/pml-book/book1.html)
 
 **My comment: We can make visualizations of DNNs as directed acyclic graphs.**
 
-[TF playground]: http://playground.tensorflow.org
-
+[TF playground](http://playground.tensorflow.org)
 
