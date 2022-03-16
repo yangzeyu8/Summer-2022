@@ -1,8 +1,10 @@
 # Summer 2022
 
+In Summer 2022, I will make some contributions to make COMP 665 better supervised by Prof. Joe Warren.  
+
 ## [Project 15 - Deep neural networks](https://github.com/yangzeyu8/Summer-2022/blob/main/Project%2015%20-%20Deep%20neural%20networks/README.md)
 
-## Research - Machine grader and Zion's thesis
+## Research - Machine grader
 
 ### Learning with fewer labeled examples
 
