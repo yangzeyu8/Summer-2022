@@ -1,20 +1,10 @@
-# Visualization 2022
+# Summer 2022
 
-## Visualization of DNNs
+## Project 15 - Deep neural networks
 
-> The term “DNN” actually encompasses a larger family of models, in which we compose differentiable functions into any kind of DAG (directed acyclic graph), mapping input to output.
+## Research - Machine grader and Zion's thesis
 
-[Murphy book](https://probml.github.io/pml-book/book1.html)
-
-**My comment: We can make visualizations of DNNs as directed acyclic graphs.**
-
-[TF playground](http://playground.tensorflow.org)
-
-**My notebook:** https://colab.research.google.com/drive/1a_FHvCIz3MBesGHAdvuYSGDXBfHUJDfb
-
-## Machine Grader
-
-### Learning with Fewer Labeled Examples
+### Learning with fewer labeled examples
 
 1) Data augmentation
 2) Transfer learning
@@ -24,4 +14,7 @@
 6) Few-shot learning
 7) Weakly supervised learning
 
-### Machine Learning with Graphs
+### Machine learning with graphs
+
+**My notebook:** https://colab.research.google.com/drive/1a_FHvCIz3MBesGHAdvuYSGDXBfHUJDfb
+
