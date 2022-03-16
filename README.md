@@ -4,6 +4,8 @@ In Summer 2022, I will make some contributions to make COMP 665 better supervise
 
 ## [Project 15 - Deep neural networks](https://github.com/yangzeyu8/Summer-2022/blob/main/Project%2015%20-%20Deep%20neural%20networks/README.md)
 
+Project 15 notebook: https://colab.research.google.com/drive/1a_FHvCIz3MBesGHAdvuYSGDXBfHUJDfb
+
 ## Research - Machine grader
 
 ### Learning with fewer labeled examples
@@ -17,5 +19,3 @@ In Summer 2022, I will make some contributions to make COMP 665 better supervise
 7) Weakly supervised learning
 
 ### Machine learning with graphs
-
-**My notebook:** https://colab.research.google.com/drive/1a_FHvCIz3MBesGHAdvuYSGDXBfHUJDfb
