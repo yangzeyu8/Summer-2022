@@ -21,3 +21,5 @@
 ## Project overview
 
 This week's project focuses on building deep neural networks (DNNs). In this week's project, you will first develop a modular, fully connected neural network model and test it on the CIFAR-10 problem. Then, you will build a three-layer convolutional neural network model and test it on the same CIFAR-10 problem. You will also make visualizations for the performance and architecture of the DNNs. 
+
+[Project 15 notebook](https://colab.research.google.com/drive/1a_FHvCIz3MBesGHAdvuYSGDXBfHUJDfb)
