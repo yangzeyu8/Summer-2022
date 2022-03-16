@@ -19,4 +19,3 @@ In Summer 2022, I will make some contributions to make COMP 665 better supervise
 ### Machine learning with graphs
 
 **My notebook:** https://colab.research.google.com/drive/1a_FHvCIz3MBesGHAdvuYSGDXBfHUJDfb
-
