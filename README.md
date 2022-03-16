@@ -1,6 +1,6 @@
 # Summer 2022
 
-In Summer 2022, I will make some contributions to make COMP 665 better supervised by Prof. Joe Warren.  
+In Summer 2022, I will make some contributions supervised by Prof. Joe Warren to make COMP 665 better.  
 
 ## [Project 15 - Deep neural networks](https://github.com/yangzeyu8/Summer-2022/blob/main/Project%2015%20-%20Deep%20neural%20networks/README.md)
 
