@@ -1,6 +1,6 @@
 # Summer 2022
 
-In Summer 2022, I will make some contributions supervised by Prof. Joe Warren to make COMP 665 better. Specifically, I will do the following:
+In Summer 2022, I will make some contributions supervised by Prof. Joe Warren to make COMP 665 better. I will possibly work 40-50 hours per week. Specifically, I will do the following:
 
 - Design a bonus project about neural networks.
 - Research on improving the machine grader by using explainable machine learning algorithms.
@@ -62,3 +62,6 @@ Get a job (possibility 2)
 
 - It is possible to be rejected by all universities in 2023. If it happens (hopefully not), I want to find a job with a small workload although less money, so it affects my learning as least as possible. Then I want to reapply and try to go to graduate school in 2024.
 
+In the future
+
+- Ideally, become a professor. Let us see.
