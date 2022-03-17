@@ -39,7 +39,7 @@
 
 We can compare students' objects and instructors' objects by some graph comparison algorithms, such as graph kernels used to measure similarities between graphs. The figure below is from [a review paper](https://www.researchgate.net/publication/262524340_Graph_Matching_and_Learning_in_Pattern_Recognition_in_the_Last_10_Years) written in 2014. 
 
-<img src="https://cdn.mathpix.com/snip/images/c4JSf2aSfzwYPgFwajk2GbjF54E0mTOjvyKtVnLeFjY.original.fullsize.png" style="zoom:25%;" />
+<img src="https://cdn.mathpix.com/snip/images/c4JSf2aSfzwYPgFwajk2GbjF54E0mTOjvyKtVnLeFjY.original.fullsize.png" style="zoom:50%;" />
 
 **Difficulties**
 
