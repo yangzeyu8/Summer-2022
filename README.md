@@ -47,7 +47,7 @@ Undergraduate
 - I major in Electrical Engineering in my undergraduate school. Unfortunately, I only remember math classes, including Calculus, Linear Algebra, and Probability.
 - I participated in a research project in optimization for smart energy systems.
 
-Master's degree
+MDS
 
 - I want to be well prepared to pursue my PhD. If I am well prepared, I guess I can get a PhD degree in a short time. 
 - I want to be good at math because I want to be efficient. Technology changes over time, but math is always there.
